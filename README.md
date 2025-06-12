@@ -1,4 +1,4 @@
-# 🛠️ Infrastructure - Forum Ynov
+# 🛠️ Infrastructure - Infra Ynov
 
 Ce projet constitue l'infrastructure d'une application web (forum), avec une architecture **frontend/backend** simple.  
 Il est conçu pour gérer les utilisateurs, fournir une interface web, et s'intégrer dans un environnement Docker ou NGINX.
